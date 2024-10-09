@@ -1,8 +1,8 @@
 # OOP-Machine-Problem
 
-<h2> Instructions for this OOP Machine Problem: </h2>
+<h2> The given instructions for this OOP Machine Problem: </h2>
 
-<h3> Create a separate PHP file for each problem. </h3> 
+<h3> Created a separate PHP file for each problem. </h3> 
   
 1. Write a PHP program to create a Vehicle class with name, speed and mileage 
 instance attributes. 
