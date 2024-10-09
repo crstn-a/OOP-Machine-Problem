@@ -1,6 +1,6 @@
 # OOP-Machine-Problem
 
-# Instructions for this OOP Machine Problem: 
+<h2> Instructions for this OOP Machine Problem: 
 
 - Create a separate PHP file for each problem.
   
